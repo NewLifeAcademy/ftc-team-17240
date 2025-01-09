@@ -1,7 +1,7 @@
 # The Iron Eagles of New Life Academy, Woodbury MN
 ## FIRST Tech Challenge Team 17240
 
-We strive to foster growth and learning in a fun, competitive enviornment.
+We strive to foster growth and learning in a fun, competitive environment.
 
 ![Team Photo](20241207-ftc17240-team-photo.jpg)
 
