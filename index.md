@@ -21,5 +21,5 @@ New Life Academy Robotics Promotional Video on [YouTube](https://www.youtube.com
 [Access our *free* print files here.](3ddesigns.md)
 
 ## Links
-[Team Page on FTC Events](https://ftc-events.firstinspires.org/2024/team/17240)
-[Instagram](https://www.instagram.com/ironeagles17240/)
+- [Team Page on FTC Events](https://ftc-events.firstinspires.org/2024/team/17240)
+- [Instagram](https://www.instagram.com/ironeagles17240/)
