@@ -1,6 +1,14 @@
 # The Iron Eagles of New Life Academy, Woodbury MN
 ## FIRST Tech Challenge Team 17240
 
+## Match Information - Saturday, January 11th 2025
+[!IMPORTANT]
+Matches begin at **11:15 AM**<br/>
+[Event Livestream](https://youtube.com/live/luZXgE_2FwI?feature=share) - Hosted by Burnsville FTC Team 7588<br/>
+[Match Results](https://ftc-events.firstinspires.org/2024/USMNBUQ1/qualifications)<br/>
+Match Schedule - TBD
+
+## About Us
 We strive to foster growth and learning in a fun, competitive environment.
 
 ![Team Photo](20241207-ftc17240-team-photo.jpg)
