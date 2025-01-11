@@ -2,7 +2,6 @@
 ## FIRST Tech Challenge Team 17240
 
 ## Match Information - Saturday, January 11th 2025
-> [!IMPORTANT]
 > Matches begin at **11:15 AM**<br/>
 > [Event Livestream](https://youtube.com/live/luZXgE_2FwI?feature=share) - Hosted by Burnsville FTC Team 7588<br/>
 > [Match Results](https://ftc-events.firstinspires.org/2024/USMNBUQ1/qualifications)<br/>
