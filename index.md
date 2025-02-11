@@ -1,4 +1,4 @@
-# The Iron Eagles of New Life Academy, Woodbury MN
+# The Iron Eagles of New Life Academy, Woodbury MN ![Logo](./iron-eagles-avatar.png)
 ## FIRST Tech Challenge Team 17240
 
 ## Minnesota FTC State Championship Information
