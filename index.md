@@ -17,6 +17,7 @@ We strive to foster growth and learning in a fun, competitive environment.
 
 ## Video
 New Life Academy Robotics Promotional Video on [YouTube](https://www.youtube.com/watch?v=FmHC0kmDVho)
+[Team YouTube Page](https://www.youtube.com/@TheIronEagles)
 
 ## 3d Printed Parts
 [Access our *free* print files here.](3ddesigns.md)
