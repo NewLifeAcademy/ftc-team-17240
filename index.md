@@ -1,5 +1,6 @@
-# The Iron Eagles of New Life Academy, Woodbury MN ![Logo](./iron-eagles-avatar.png)
-## FIRST Tech Challenge Team 17240
+# The FIRST Tech Challenge Teams of New Life Academy, Woodbury MN ![Logo](./iron-eagles-avatar.png)
+## Team 17240 - Iron Eagles
+## Team 32014 - Wings of Steel
 
 
 ## About Us
@@ -14,12 +15,17 @@ We strive to foster growth and learning in a fun, competitive environment.
 - [Team YouTube Page](https://www.youtube.com/@TheIronEagles)
 
 ## 3d Printed Parts
-[Access our *free* print files here.](3ddesigns.md)
+[Access our *free* print files here.](designs/3ddesigns.md)
 
 ## Events
-- [2024 MN Qualifier 2 - Jan 11 2025 Burnsville High School](matchpage-usmnbuq1-2024.md)
-- [2024 MN State - Feb 15 Burnsville High School](matchpage-usmncnp-2024.md)
+### 2024-2025 : Decode
+- [2025 MN Qualifier 1 - December 6 2025 Maple Grove High School](matchpages\matchpage-unmnmgq1-2025.md)
+
+### 2023-2024 : Into the Deep
+- [2024 MN Qualifier 2 - Jan 11 2025 Burnsville High School](matchpages\matchpage-usmnbuq1-2024.md)
+- [2024 MN State - Feb 15 Burnsville High School](matchpages\matchpage-usmncnp-2024.md)
 
 ## Links
-- [Team Page on FTC Events](https://ftc-events.firstinspires.org/2024/team/17240)
+- [Team 17240 Page on FTC Events](https://ftc-events.firstinspires.org/team/17240)
+- [Team 32014 Page on FTC Events](https://ftc-events.firstinspires.org/team/32014)
 - [Instagram](https://www.instagram.com/ironeagles17240/)
