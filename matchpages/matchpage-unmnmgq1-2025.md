@@ -1,4 +1,5 @@
-# Saturday, December 6th, 2025 - Maple Grove High School - Match Page
+# MN FTC Maple Grove QUalifier
+Saturday, December 6th, 2025 - Maple Grove High School - Match Page
 
 ## Judging Schedule
 | Time | Team | Judging |
