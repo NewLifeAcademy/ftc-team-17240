@@ -1,7 +1,9 @@
-# MN FTC Maple Grove QUalifier
+# MN FTC Maple Grove Qualifier
+
 Saturday, December 6th, 2025 - Maple Grove High School - Match Page
 
 ## Judging Schedule
+
 | Time | Team | Judging |
 |--|--|--|
 | 7:20 AM | Both | Pits Open |
@@ -11,6 +13,7 @@ Saturday, December 6th, 2025 - Maple Grove High School - Match Page
 | 9:20 AM | 32014 | Judging |
 
 ## Iron Eagles 17240 Matches
+
 | Time | Match# | Field | Color | Partner | Opponent1 | Opponent2 |
 |--|--|--|--|--|--|--|
 | 11:13 AM | 3 | <span style="color:black; background-color: rgba(0, 255, 0, 0.5);">1</span> | <span style="color:white; background-color: rgba(0, 0, 255, 0.5);">Blue</span> | [11608](https://ftc-events.firstinspires.org/2025/team/11608) | [18535](https://ftc-events.firstinspires.org/2025/team/18535) | [20037](https://ftc-events.firstinspires.org/2025/team/20037) |
@@ -21,6 +24,7 @@ Saturday, December 6th, 2025 - Maple Grove High School - Match Page
 | 2:42 PM | 28 | <span style="color:black; background-color: rgba(255, 255, 0, 0.5);">2</span> | <span style="color:white; background-color: rgba(0, 0, 255, 0.5);">Blue</span> | [22239](https://ftc-events.firstinspires.org/2025/team/22239) | [26469](https://ftc-events.firstinspires.org/2025/team/26469) | [31560](https://ftc-events.firstinspires.org/2025/team/31560) |
 
 ## Wings of Steel 32014 Matches
+
 | Time | Match# | Field | Color | Partner | Opponent1 | Opponent2 |
 |--|--|--|--|--|--|--|
 | 11:19 AM | 4 | <span style="color:black; background-color: rgba(255, 255, 0, 0.5);">2</span> | <span style="color:white; background-color: rgba(0, 0, 255, 0.5);">Blue</span> | [11612](https://ftc-events.firstinspires.org/2025/team/11612) | [26469](https://ftc-events.firstinspires.org/2025/team/26469) | [19595](https://ftc-events.firstinspires.org/2025/team/19595) |
