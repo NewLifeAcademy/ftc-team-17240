@@ -1,4 +1,4 @@
-## Friday, February 14 2025 - Burnsville High School
+# Friday, February 14 2025 - Burnsville High School
 
 |||
 |--|--|
