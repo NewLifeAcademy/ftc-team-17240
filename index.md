@@ -18,10 +18,11 @@ We strive to foster growth and learning in a fun, competitive environment.
 [Access our *free* print files here.](designs/3ddesigns.md)
 
 ## Events
-### 2024-2025 : Decode
+### 2025-2026 : Decode
+- [2025 MN Qualifier 2 - January 17 2026 Prarie View Middle School](matchpages/matchpage-unmnotq1-2025.md)
 - [2025 MN Qualifier 1 - December 6 2025 Maple Grove High School](matchpages\matchpage-unmnmgq1-2025)
 
-### 2023-2024 : Into the Deep
+### 2024-2025 : Into the Deep
 - [2024 MN Qualifier 2 - Jan 11 2025 Burnsville High School](matchpages\matchpage-usmnbuq1-2024)
 - [2024 MN State - Feb 15 Burnsville High School](matchpages\matchpage-usmncnp-2024)
 
