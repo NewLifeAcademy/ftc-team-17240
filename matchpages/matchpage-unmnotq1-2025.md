@@ -2,6 +2,8 @@
 
 Saturday, January 17th, 2026 - Prarie View Middle School, Otsego, MN - Match Page
 
+[Match Livestream](https://www.youtube.com/@NorthwestMetroRobotics)
+
 ## Iron Eagles 17240 Matches
 
 | Time | Match# | Field | Color | Partner | Opponent1 | Opponent2 |
